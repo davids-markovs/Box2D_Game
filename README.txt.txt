@@ -1,5 +1,6 @@
-1) Darba veikðanai tika patçrçts 3h laika
-2) Problçma ar ko sakâros, Joint definçðana lai divi objekti savâ strapâ bûtu atkarîgi
+1) Darba veikï¿½anai tika patï¿½rï¿½ts 3h laika
+2) Problï¿½ma ar ko sakï¿½ros, Joint definï¿½ana lai divi objekti savï¿½ strapï¿½ bï¿½tu atkarï¿½gi
 4) http://box2d.org/manual.pdf  
-5) Copyright © 2019  Dâvids Markovs
+5) Copyright ï¿½ 2019  Dï¿½vids Markovs
 
+[![Run on Repl.it](https://repl.it/badge/github/davids-markovs/Box2D_Game)](https://repl.it/github/davids-markovs/Box2D_Game)
